@@ -5,5 +5,5 @@ import {Component} from '@angular/core';
   templateUrl: "app/app.component.html"
 })
 export class AppComponent {
-  title: string = "Angular 2 Building Blocks";
+  title: string = "ng2 init";
 }
